@@ -12,7 +12,11 @@ importers:
         specifier: ^1.4.0
         version: 1.4.0
 
-  utils: {}
+  utils:
+    devDependencies:
+      vitest:
+        specifier: ^1.4.0
+        version: 1.4.0
 
 packages:
 
